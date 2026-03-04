@@ -1,0 +1,118 @@
+{
+    "basic_info": {
+      "name": "Sudipto Roy",
+      "titles": [ "MERN Developer", "React Expert", "Mobile App Developer With React-Native", "Tech Enthusiast" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/SudiptoRoy06",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/sudipto-roy06/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/SudiptoVE",
+          "class": "fab fa-github"
+        }
+      ],
+      "image": "myProfile.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "95"
+        },
+        {
+          "name": "Next.js",
+          "class": "devicon-nextjs-plain",
+          "level": "95"
+        },
+        {
+          "name": "React Native",
+          "class": "devicon-reactnative-original-wordmark",
+          "level": "95"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-original",
+          "level": "95"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain-wordmark",
+          "level": "90"
+        },
+        {
+          "name": "Nest.js",
+          "class": "devicon-nestjs-plain",
+          "level": "90"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Material UI",
+          "class": "devicon-materialui-plain",
+          "level": "85"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "level": "60"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "60"
+        },
+        {
+          "name": "Laravel",
+          "class": "devicon-laravel-original",
+          "level": "60"
+        },
+        {
+          "name": "Jest",
+          "class": "devicon-jest-plain",
+          "level": "60"
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "60"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-original",
+          "level": "60"
+        }
+      ]
+    }
+  }

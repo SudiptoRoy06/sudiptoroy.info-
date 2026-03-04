@@ -1,0 +1,210 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": {
+        "first": "Hello 👋 I’m Sudipto Roy, a passionate Software Engineer with 7+ years of experience building modern, scalable, and user-centric digital products. I specialize in front-end and full-stack development using React, Next.js, React Native, Node.js, and NestJS, creating seamless web and mobile experiences that deliver real business impact.",
+        "second": "Currently, I’ve been working with Virtual Employee Pvt. Ltd. for over 4 years, where I contribute to designing robust applications, optimizing performance, and delivering high-quality solutions for global clients.",
+        "third": "I’m driven by continuous learning, clean architecture, and solving complex problems with elegant code. I enjoy collaborating with cross-functional teams, mentoring developers, and staying updated with emerging technologies to build future-ready products.",
+        "forth": "My goal is to keep growing as a technology leader — crafting impactful software, embracing innovation, and contributing to meaningful digital transformation.`"
+      },
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Car Wish",
+        "startDate": "2025 - Present",
+        "description": "Car Wish is a comprehensive car marketplace platform based in Sweden, leveraging Next.js for the frontend and Node.js for the backend.",
+        "images": [
+          "images/projects/car-wish-home.jpeg",
+          "images/projects/car-wish-1.jpeg",
+          "images/projects/car-wish-2.jpeg",
+          "images/projects/car-wish-logo.jpeg"
+        ],
+        "url": "https://carwish.se/",
+        "url2": "",
+        "technologies": [
+          {
+            "class": "devicon-nextjs-plain",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain-wordmark",
+            "name": "Node.js"
+          }
+        ]
+      },
+      {
+        "title": "Gesetzliche Anlagen Prüfung (GAP)",
+        "startDate": "2024 - 2025",
+        "description": "Facility Management Portal for German users using. Where building owners can manage their properties, schedule maintenance, and track compliance with local regulations. The platform is built with Next.js for the frontend and NestJS for the backend, ensuring a seamless user experience and robust performance.",
+        "images": [
+          "images/projects/gap-home.jpeg",
+          "images/projects/gap-dashboard.jpeg",
+          "images/projects/gap-dashboard2.jpeg",
+          "images/projects/gap-logo.jpeg"
+        ],
+        "url": "",
+        "url2": "",
+        "technologies": [
+          {
+            "class": "devicon-nextjs-plain",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nestjs-plain",
+            "name": "Nest.js"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS S3"
+          }
+        ]
+      },
+      {
+        "title": "Dreamhub Africa",
+        "startDate": "2025",
+        "description": "E-Commerce app based on the African market. The platform is built with React Native for the mobile app and Node.js for the backend, ensuring a seamless user experience and robust performance.",
+        "images": [
+          "images/projects/dreamHub-africa.webp",
+          "images/projects/dreamHub-africa-2.webp",
+          "images/projects/dreamHub-africa-3.webp",
+          "images/projects/dreamHub-africa-4.webp"
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.dreamhubafrica.app&pcampaignid=web_share",
+        "url2": "https://apps.apple.com/us/app/dreamhub-africa/id6751858649",
+        "technologies": [
+          {
+            "class": "devicon-reactnative-original-wordmark",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain-wordmark",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS S3"
+          }
+        ]
+      },
+      {
+        "title": "Clairity App",
+        "startDate": "2023-2025",
+        "description": "Mechanic Workshop Management System for the Australian market. The platform is built with React for the web app, React Native for the mobile app and Node.js for the backend, ensuring a seamless user experience and robust performance.",
+        "images": [
+          "images/projects/clairity-login.png",
+          "images/projects/clairity-dashboard.png",
+          "images/projects/clairity-inner.png",
+          "images/projects/clairity-logo.png"
+        ],
+        "url": "https://app.chooseclairity.com",
+        "url2": "",
+        "technologies": [
+          {
+            "class": "devicon-reactnative-original-wordmark",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain-wordmark",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS Lambda"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Virtual Employee Pvt. Ltd.",
+        "title": "Software Engineer",
+        "years": "10.2021 - present",
+        "mainTech": [
+          "React",
+          "Next.js",
+          "React Native",
+          "Node.js"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Bootstrap",
+          "MUI",
+          "MongoDB",
+          "AWS EC2",
+          "AWS S3",
+          "AWS Lambda",
+          "AWS Lightsail"
+        ]
+      },
+      {
+        "company": "Matainja Technologies",
+        "title": "Web Developer",
+        "years": "08.2020 - 09.2021",
+        "mainTech": [
+          "React",
+          "Laravel"
+        ],
+        "technologies": [
+          "PHP",
+          "MySQL",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "Tekzto Solution",
+        "title": "Web Developer",
+        "years": "06.2019 - 07.2020",
+        "mainTech": [
+          "React",
+          "React Native",
+          "Node.js"
+        ],
+        "technologies": [
+          "PHP",
+          "MySQL",
+          "JavaScript",
+          "AWS",
+          "Bootstrap",
+          "MUI",
+          "MongoDB"
+        ]
+      },
+      {
+        "company": "Triune Tech",
+        "title": "Junior Developer",
+        "years": "12.2018 - 03.2019",
+        "mainTech": [
+          "HTML5",
+          "CSS",
+          "JavaScript"
+        ],
+        "technologies": [
+          "PHP",
+          "MySQL"
+        ]
+      }
+    ]
+  }
