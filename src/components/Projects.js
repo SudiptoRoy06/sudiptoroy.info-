@@ -41,6 +41,9 @@ class Projects extends Component {
                   <p className="project-title-settings">
                     {projects.title}
                   </p>
+                  <button className="click-view">Tap to view more</button>
+                  {/* <div className="click-view">
+                  </div> */}
                 </div>
               </div>
             </span>

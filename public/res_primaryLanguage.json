@@ -39,6 +39,10 @@
           {
             "class": "devicon-nodejs-plain-wordmark",
             "name": "Node.js"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS EC2"
           }
         ]
       },
